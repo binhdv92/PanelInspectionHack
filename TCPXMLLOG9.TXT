@@ -1,0 +1,3 @@
+STR10     0 09:58:47,202 Write Event 0
+STR10     1 09:58:47,203 Exit Thread
+STR10     2 09:58:47,203 Exit done

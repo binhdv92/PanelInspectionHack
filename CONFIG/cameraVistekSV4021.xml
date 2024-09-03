@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<version>
+	<major>0</major>
+	<minor>0</minor>
+	<bugfix>0</bugfix>
+</version>
+<name>VISTEK SV 4021</name>		<!-- Camera 0 name -->
+<model>4</model> 				<!-- 4 = Vistek SV4021 -->
+<type>1</type> 					<!-- 0 = line 1 = area -->
+<color>0</color>				<!-- 0 = monochrome 1 = RGB -->
+<pixel>2048</pixel>			<!-- number of pixel  in x direction-->
+<lines>2048</lines>			<!-- number of pixel  in y direction -->
+<bits>10</bits> 				<!-- bits per pixel, camera supports to 10 bit -->
+<sensormode>6</sensormode> 	<!-- read out mode for sensor   -->
+
+</gsc>
+

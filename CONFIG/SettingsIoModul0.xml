@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<version>1</version>
+
+<!-- pollingtime in milliseconds -->
+<pollingtime>10</pollingtime> 
+
+
+</gsc>
+
+
+
+
+

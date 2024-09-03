@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gsc>
+
+<!--<name>"Addi Data PCIe 1532 4"</name>	 --> <!-- Name of framegrabber 		-->
+<!--<type>1<\type> -->
+<version >
+	<major>0</major>
+	<minor>0</minor>	
+	<bugfix>0</bugfix>
+</version>
+
+<name>SiSo Extension Board</name>	  	<!-- Name of framegrabber 		-->
+<digioutno>4</digioutno>				<!-- no of digital outputs 		-->
+<digiinpno>4</digiinpno>				<!-- no of digital inputs 		-->
+<anaoutno>0</anaoutno>					<!-- no of analog outputs used 	-->
+<anainpno>0</anainpno>					<!-- no of analog inputs used 	-->
+<eventmskris>0000</eventmskris>			<!-- mask (hex) for input event on rising edge note!  Bit0 = channel 0 not available	-->
+<eventmskfal>0000</eventmskfal>			<!-- mask (hex)for input event on falling edge note! Bit0 = channel 0 not available	-->
+
+</gsc>
+

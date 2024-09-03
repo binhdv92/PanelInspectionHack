@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<version>
+	<major>0</major>
+	<minor>0</minor>
+	<bugfix>0</bugfix>
+</version>
+
+
+<vendor>Faulhaber</vendor>
+<model>350K</model>
+<comport>/dev/ttyUSB0</comport>
+<baudrate>19200</baudrate>
+<comloglevel>0</comloglevel>
+<direction>0</direction>
+<incperturn>3000</incperturn>
+<umperturn>1000</umperturn>
+<dividend>1</dividend>
+<divisor>1</divisor>
+<gearratio>10</gearratio>
+<disableonstop>0</disableonstop>
+<zeroposoffset>0</zeroposoffset>
+
+</gsc>
+
+
+
+

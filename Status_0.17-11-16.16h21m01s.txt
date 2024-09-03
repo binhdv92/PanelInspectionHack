@@ -1,0 +1,35 @@
+====DCU====
+Version: 05.00.02
+Grabber index: 0
+Type number: 1
+Oct 17 2017                            : 16
+                                       : 0.000
+Inspection time                        : 0.000
+Defect eval time                       : 0.000
+Reactangle time                        : 3369
+Defect correl                          : 0.000
+EIP close                              : 0.000
+EIP norm erode                         : 0.000
+EIP SubEIPs                            : 0.000
+SubEIP read BM                         : 0.000
+SubEIP get mask                        : 0.000
+SubEIP read slave line row             : 0.000
+SubEIP norm HP thr                     : 0.000
+SubEIP event rem corlen                : 0.000
+SubEIP defects                         : 0.000
+SubEIP copy list                       : 0.000
+SubEIP complete                        : 0.000
+
+
+LinescanVersion: 05.00.02
+Grabber index: 0
+Type number: 2
+track num                              : 0.000
+Scan count                             : 0.000
+Block count                            : 0.000
+track drive time                       : 0.000
+track time                             : 0.000
+x resol                                : 194.081
+y resol                                : 203.000
+
+

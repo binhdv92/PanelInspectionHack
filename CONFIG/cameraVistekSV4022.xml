@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<version>
+	<major>0</major>
+	<minor>0</minor>
+	<bugfix>0</bugfix>
+</version>
+<name>VISTEK SV 4021</name>		<!-- Camera 0 name -->
+<type>1</type> 				<!-- 0 = line 1 = area -->
+<color>0</color>			<!-- 0 = monochrome 1 = RGB -->
+<pixel>2048</pixel>			<!-- number of pixel  in x direction-->
+<lines>2048</lines>			<!-- number of pixel  in y direction -->
+<bits>12</bits> 			<!-- bits per pixel -->
+
+</gsc>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<version>1</version>
+
+<!-- pollingtime in milliseconds -->
+<pollingtime>10</pollingtime> 
+
+<!-- port directions 0 = input -->
+<!-- port directions 1 = output -->
+<portdirs>
+	<portdir>0</portdir>
+	<portdir>1</portdir>
+	<portdir>1</portdir>
+</portdirs>
+
+</gsc>
+

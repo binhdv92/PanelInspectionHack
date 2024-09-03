@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<name>Grabber Simulator</name>	<!-- Name of framegrabber -->
+
+<filepath>./IMAGES</filepath>	<!--path to image folder-->
+<framerate>5.0</framerate>   	<!--frames per second-->
+<blocksize>0</blocksize>   	    <!--in rows. split frames into smaller -->
+
+</gsc>
+

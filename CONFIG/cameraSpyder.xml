@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<version>
+	<major>0</major>
+	<minor>0</minor>
+	<bugfix>0</bugfix>
+</version>
+<name>DALSA SPYDER</name>		<!-- Camera 0 name -->		
+<color>0</color>			<!-- 0 = monochrome 1 = colour -->
+<pixel>4096</pixel>			<!-- number of pixel  in x direction-->
+<lines>1</lines>			<!-- number of lines  in y direction -->
+<bits>bits</bits>			<!-- bits per pixel -->
+
+</gsc>
+

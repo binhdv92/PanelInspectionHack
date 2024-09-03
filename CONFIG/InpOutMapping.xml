@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gsc>
+
+<version>
+	<major>0</major>
+	<minor>0</minor>	
+	<bugfix>0</bugfix>
+</version>
+
+<description>
+Standard IO mapping
+</description>
+
+
+<!-- Describes mapping of logical (what io is doing) io  physical (which output pin is set) number-->
+<!-- Therefore physical and logical number cannot exist twice -->
+<!-- Example <id>"SYSTEMREADY""</id>  <ioname>"System ready"</ioname>  <iotype>1</iotype> <phyno>4</phyno>  -->
+<!-- iotype 0 = input -->	
+<!--INPUTS -->	
+<INPUTS>
+<!--
+	<INSPSTART>  	
+		<name>Insp Start</name>   
+		<modulno>0</modulno> 
+		<phyno>2</phyno> 
+	</INSPSTART>
+-->
+		
+</INPUTS>
+
+<!--OUTPUTS -->
+<OUTPUTS>
+	<!--
+	<SYSTEMREADY>  
+		<name>System Ready</name>  
+		<modulno>1</modulno> 
+		<phyno>0</phyno> 
+	</SYSTEMREADY>
+	
+	<SYSTEMBUSY>  
+		<name>System Busy</name>  
+		<modulno>1</modulno> 
+		<phyno>1</phyno> 
+	</SYSTEMBUSY>
+	
+	<DATAVALID>  
+		<name>System Ready</name>  
+		<modulno>1</modulno> 
+		<phyno>2</phyno> 
+	</DATAVALID> 		
+	
+	<SLOT1_DEV0_ANAOUT0> 		
+		<name>camera 1 light power 1</name>  
+		<modulno>1</modulno> 
+		<phyno>0</phyno>
+		<type>1</type>
+	</SLOT1_DEV0_ANAOUT0>
+			-->	
+</OUTPUTS>
+</gsc>
+

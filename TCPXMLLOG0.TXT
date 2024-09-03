@@ -1,0 +1,2 @@
+STR1     0 16:33:06,606 Exit Thread
+STR1     1 16:33:06,607 Exit done

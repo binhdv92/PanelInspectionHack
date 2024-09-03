@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gsc>
+
+<!-- version 0 - 01 - Jan 2017 old style without using xml arrays-->
+<!-- version 1 - 25 - May 2017 new style using xml arrays-->
+<version>1</version>
+
+<simulatoron>false</simulatoron>		<!-- Activate simulator for all hardware components , avoid access to hardware runtime environment-->
+
+<!-- Available nodes for grabberboard are siso, sick -->
+<!-- Available nodes for grabberboard are siso, sick -->
+<grabberboards>   
+  <types>
+    <type>0</type>    <!-- 0 = siso, 1 = sick -->
+  </types>
+
+  <ports>
+    <used>1</used>
+  </ports>
+</grabberboards>
+
+
+<inpoutboards>
+    <types>              	
+		<type>2</type>					<!-- 0 = Unknown 1 = Advantech 1810 2 = Siso IO-Extension 3 = Advantech 1730-->
+    </types>
+</inpoutboards>
+
+<motors>
+    <types>              	
+    </types>
+</motors>
+
+</gsc>

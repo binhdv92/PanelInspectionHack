@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gsc>
+
+<version >
+	<major>0</major>
+	<minor>0</minor>	
+	<bugfix>0</bugfix>
+</version>
+
+<HWLOG>										<!-- Setting for hardware manager log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>hardware</filename>		  		<!-- name of log file 			-->
+	<type>0</type>	  							<!-- 0 = rotating 1 = stdout	-->
+	<filesize>250</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>5</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>1</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</HWLOG>
+
+<GRALOG>									<!-- Setting for grabber log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>grabber</filename>	  			<!-- name of log file 			-->
+    <type>0</type>	  							<!-- 0 = rotating 1 =  stdout	-->
+	<filesize>250</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>5</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>1</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</GRALOG>
+
+<CAMLOG>									<!-- Setting for camera log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>camera</filename>			  		<!-- name of log file 			-->
+	<type>0</type>	  							<!-- 0 = rotating 1 =  stdout	-->
+	<filesize>250</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>5</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>0</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</CAMLOG>
+
+<IOLOG>										<!-- Setting for input outputs log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>iolog</filename>	  				<!-- name of log file 			-->
+	<type>0</type>	  							<!-- 0 = rotating 1 =  stdout	-->
+	<filesize>250</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>5</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>0</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</IOLOG>
+
+<APPLOG>									<!-- Setting for application log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>application</filename>	 	 	<!-- name of log file		-->
+	<type>0</type>	  							<!-- 0 = rotating 1 =  stdout	-->
+	<filesize>512</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>5</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>0</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</APPLOG>
+
+<INSPECTION>								<!-- Setting for inspection log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>insp</filename>		  			<!-- name of log file		-->
+	<type>0</type>	  							<!-- 0 = rotating 1 =  stdout	-->
+	<filesize>512</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>5</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>0</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</INSPECTION>
+
+<EVALLOG>									<!-- Setting for eval log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>eval</filename>	  				<!-- name of log file 			-->
+    <type>0</type>	  							<!-- 0 = rotating 1 =  stdout	-->
+	<filesize>250</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>1</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>0</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</EVALLOG>
+
+<RESULTLOG>									<!-- Setting for result log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>result</filename>	  				<!-- name of log file 			-->
+    <type>0</type>	  							<!-- 0 = rotating 1 =  stdout	-->
+	<filesize>250</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>1</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>0</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</RESULTLOG>
+
+<CAMERA0>									<!-- Setting for camera0 log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>camera0</filename>		 		<!-- name of log file 			-->
+	<type>0</type>	  							<!-- 0 = rotating 1 =  stdout	-->
+	<filesize>250</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>5</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>0</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</CAMERA0>
+
+<CAMERA1>									<!-- Setting for camera1 log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>camera1</filename>	  			<!-- name of log file 			-->
+	<type>0</type>	  							<!-- 0 = rotating 1 =  stdout	-->
+	<filesize>250</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>5</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>0</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</CAMERA1>
+
+<CLSER0>									<!-- Setting for clser log 	-->
+	<path>.\\logs\\</path>	  					<!-- name of path of logfile  (backslash)	-->
+	<filename>clser</filename>	 	 			<!-- name of log file 			-->
+	<type>0</type>	  							<!-- 0 = rotating 1 =  stdout	-->
+	<filesize>250</filesize>  					<!-- filesize in KByte  		-->
+	<maxfileno>5</maxfileno>	  				<!-- max no of filse 			-->
+	<forceflush>0</forceflush>	  				<!-- 0 = OFF (file is written after closing app ) 1 = ON 			-->
+</CLSER0>
+
+</gsc>
+
+

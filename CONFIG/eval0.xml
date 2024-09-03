@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<version>
+	<major>0</major>
+	<minor>0</minor>
+	<bugfix>0</bugfix>
+</version>
+
+<!--SAVE-->
+<!--<datapath>~/tmp/</datapath>                     <!-- Eval all frames with even framecnt-->-->
+<datapath>B:\\</datapath>              <!-- Eval all frames with even framecnt-->
+<!-- <datapath>.\DATA\</datapath> -->
+<savebmpdata>0</savebmpdata> 					<!-- Save bitmap frame data to file -->
+<saverawdata>0</saverawdata> 					<!-- Save bitmap frame data to file -->
+<evalon>0</evalon> 								<!-- Enable evaluation -->
+<logeval>0</logeval> 							<!-- Log messages on stdout -->
+<ringbuf>80</ringbuf> 							<!-- No of files in ringbuf 		-->
+
+
+</gsc>
+

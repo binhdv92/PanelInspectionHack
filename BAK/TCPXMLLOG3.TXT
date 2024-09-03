@@ -1,0 +1,4 @@
+STR4     0 09:16:53,859 Write Event 0
+STR4     1 09:16:53,859 Write Event 0
+STR4     2 09:16:53,859 Exit Thread
+STR4     3 09:16:53,860 Exit done

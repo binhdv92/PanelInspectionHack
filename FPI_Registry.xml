@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Registry version="1.0">
+<F name="Path">
+<V name="App" type="8:STR"><![CDATA[C:\Users\fs126112\OneDrive - First Solar\repo\azure_devops_firstsolar-meos\GLOBAL_BGD_BREAKAGE_ALERTS\18-11-05_FPI_BGD_ARC\]]></V>
+<V name="Config" type="8:STR"><![CDATA[C:\Users\fs126112\OneDrive - First Solar\repo\azure_devops_firstsolar-meos\GLOBAL_BGD_BREAKAGE_ALERTS\18-11-05_FPI_BGD_ARC\]]></V>
+</F>
+<F name="DBSettings">
+<V name="ODBC" type="8:STR"><![CDATA[FPI]]></V>
+<V name="User" type="8:STR"><![CDATA[sa]]></V>
+<V name="PWD" type="8:STR"><![CDATA[Schw4b01]]></V>
+<V name="Enable" type="3:INT">1</V>
+</F>
+<F name="Settings">
+<V name="min_insp_speed_um_per_sec" type="3:INT">0</V>
+</F>
+</Registry>

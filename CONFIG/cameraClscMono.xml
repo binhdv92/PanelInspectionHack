@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<version>
+	<major>0</major>
+	<minor>0</minor>
+	<bugfix>0</bugfix>
+</version>
+
+<name>CLSC Monochrome</name>	<!-- Camera 0 name -->		
+<model>8</model>				<!-- 8 = CLSC Monochrome 9 = CLSC Color -->
+<color>0</color>				<!-- 0 = monochrome 1 = colour -->
+<pixel>8160</pixel>				<!-- number of pixel  in x direction-->
+<lines>1</lines>				<!-- number of lines  in y direction -->
+<bits>8</bits>				    <!-- bits per pixel -->
+<gainmin>0</gainmin>			<!-- limit for gain -->
+<gainmax>255</gainmax>			<!-- limit for gain -->
+
+</gsc>
+

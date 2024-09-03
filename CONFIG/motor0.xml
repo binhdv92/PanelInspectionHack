@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<version>
+	<major>0</major>
+	<minor>0</minor>
+	<bugfix>0</bugfix>
+</version>
+
+<vendor>Faulhaber</vendor>
+<model>350K</model>
+<comport>/dev/ttySx</comport>
+<baudrate>19200</baudrate>
+<comloglevel>0</comloglevel>
+<direction>0</direction>
+<incperturn>3000</incperturn>		<!-- Inkremente des Inkrementalgeber pro umdrehung -->
+<spindlefeed>1000</spindlefeed>  	<!-- Vorschub der spindel in micrometer per turn -->
+<dividend>1</dividend>				<!-- Übersetzungsverhältnis des Getriebes - dividend -->
+<divisor>1</divisor>				<!-- Übersetzungsverhältnis des Getriebes - divisor  z.B. 1/divisor-->
+<gearratio>10</gearratio>			<!-- Übersetzungsverhältnis durch einen Zahnriemen z.B. 12Zähne am motor/48 Zahne an einer -->
+<disableonstop>0</disableonstop>
+<zeroposoffset>0</zeroposoffset>
+
+</gsc>
+
+
+
+
+

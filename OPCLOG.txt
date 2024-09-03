@@ -1,0 +1,1261 @@
+[2018-07-25 05:59:17.699] [OPCLOG] [info] OPC On
+[2018-07-25 05:59:17.699] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2018-07-25 05:59:17.699] [OPCLOG] [info] Main Node Name: TOP Server
+[2018-07-25 05:59:17.705] [OPCLOG] [info] Server returned 4 endpoint descriptions:
+[2018-07-25 05:59:17.705] [OPCLOG] [info] Endpoint 0
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 05:59:17.705] [OPCLOG] [info] Endpoint 1
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 05:59:17.705] [OPCLOG] [info] Endpoint 2
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 05:59:17.705] [OPCLOG] [info] Endpoint 3
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 05:59:17.705] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 05:59:17.705] [OPCLOG] [info] The server has no matching endpoint.
+[2018-07-25 05:59:17.706] [OPCLOG] [info] Result of connect: BadNoMatch
+[2018-07-25 06:03:23.045] [OPCLOG] [info] Result of disconnect: Bad
+[2018-07-25 06:05:11.702] [OPCLOG] [info] OPC On
+[2018-07-25 06:05:11.702] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2018-07-25 06:05:11.702] [OPCLOG] [info] Main Node Name: TOP Server
+[2018-07-25 06:05:11.706] [OPCLOG] [info] Server returned 4 endpoint descriptions:
+[2018-07-25 06:05:11.706] [OPCLOG] [info] Endpoint 0
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:05:11.706] [OPCLOG] [info] Endpoint 1
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:05:11.706] [OPCLOG] [info] Endpoint 2
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:05:11.706] [OPCLOG] [info] Endpoint 3
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 06:05:11.706] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:05:11.706] [OPCLOG] [info] The server has no matching endpoint.
+[2018-07-25 06:05:11.707] [OPCLOG] [info] Result of connect: BadNoMatch
+[2018-07-25 06:06:15.536] [OPCLOG] [info] Result of disconnect: Bad
+[2018-07-25 06:28:44.322] [OPCLOG] [info] OPC On
+[2018-07-25 06:28:44.322] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2018-07-25 06:28:44.322] [OPCLOG] [info] Main Node Name: TOP Server
+[2018-07-25 06:28:44.325] [OPCLOG] [info] Server returned 4 endpoint descriptions:
+[2018-07-25 06:28:44.325] [OPCLOG] [info] Endpoint 0
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:28:44.325] [OPCLOG] [info] Endpoint 1
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:28:44.325] [OPCLOG] [info] Endpoint 2
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:28:44.325] [OPCLOG] [info] Endpoint 3
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 06:28:44.325] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:28:44.325] [OPCLOG] [info] The server has no matching endpoint.
+[2018-07-25 06:28:44.327] [OPCLOG] [info] Result of connect: BadNoMatch
+[2018-07-25 06:59:04.933] [OPCLOG] [info] Result of disconnect: Bad
+[2018-07-25 06:59:17.766] [OPCLOG] [info] OPC On
+[2018-07-25 06:59:17.766] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2018-07-25 06:59:17.766] [OPCLOG] [info] Main Node Name: TOP Server
+[2018-07-25 06:59:17.770] [OPCLOG] [info] Server returned 4 endpoint descriptions:
+[2018-07-25 06:59:17.770] [OPCLOG] [info] Endpoint 0
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:59:17.770] [OPCLOG] [info] Endpoint 1
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:59:17.770] [OPCLOG] [info] Endpoint 2
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:59:17.770] [OPCLOG] [info] Endpoint 3
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 06:59:17.770] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 06:59:17.770] [OPCLOG] [info] The server has no matching endpoint.
+[2018-07-25 06:59:17.771] [OPCLOG] [info] Result of connect: BadNoMatch
+[2018-07-25 07:01:14.797] [OPCLOG] [info] Result of disconnect: Bad
+[2018-07-25 07:01:24.995] [OPCLOG] [info] OPC On
+[2018-07-25 07:01:24.995] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2018-07-25 07:01:24.995] [OPCLOG] [info] Main Node Name: TOP Server
+[2018-07-25 07:01:24.999] [OPCLOG] [info] Server returned 4 endpoint descriptions:
+[2018-07-25 07:01:24.999] [OPCLOG] [info] Endpoint 0
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 07:01:24.999] [OPCLOG] [info] Endpoint 1
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 07:01:24.999] [OPCLOG] [info] Endpoint 2
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 07:01:24.999] [OPCLOG] [info] Endpoint 3
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 07:01:24.999] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 07:01:24.999] [OPCLOG] [info] The server has no matching endpoint.
+[2018-07-25 07:01:25.000] [OPCLOG] [info] Result of connect: BadNoMatch
+[2018-07-25 07:02:06.919] [OPCLOG] [info] Result of disconnect: Bad
+[2018-07-25 08:09:19.301] [OPCLOG] [info] OPC On
+[2018-07-25 08:09:19.302] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2018-07-25 08:09:19.302] [OPCLOG] [info] Main Node Name: TOP Server
+[2018-07-25 08:09:19.390] [OPCLOG] [info] Server returned 4 endpoint descriptions:
+[2018-07-25 08:09:19.390] [OPCLOG] [info] Endpoint 0
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 08:09:19.390] [OPCLOG] [info] Endpoint 1
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 08:09:19.390] [OPCLOG] [info] Endpoint 2
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   Message security:    Sign
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 08:09:19.390] [OPCLOG] [info] Endpoint 3
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-07-25 08:09:19.390] [OPCLOG] [info]   User token policy 0: UserName
+[2018-07-25 08:09:19.390] [OPCLOG] [info] The server has no matching endpoint.
+[2018-07-25 08:09:19.392] [OPCLOG] [info] Result of connect: BadNoMatch
+[2018-07-25 08:10:21.881] [OPCLOG] [info] Result of disconnect: Bad
+[2018-08-24 05:32:43.743] [OPCLOG] [info] OPC On
+[2018-08-24 05:32:43.743] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2018-08-24 05:32:43.743] [OPCLOG] [info] Main Node Name: TOP Server
+[2018-08-24 05:32:43.852] [OPCLOG] [info] Server returned 4 endpoint descriptions:
+[2018-08-24 05:32:43.852] [OPCLOG] [info] Endpoint 0
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   Message security:    Sign
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   User token policy 0: UserName
+[2018-08-24 05:32:43.852] [OPCLOG] [info] Endpoint 1
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   User token policy 0: UserName
+[2018-08-24 05:32:43.852] [OPCLOG] [info] Endpoint 2
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   Message security:    Sign
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   User token policy 0: UserName
+[2018-08-24 05:32:43.852] [OPCLOG] [info] Endpoint 3
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-08-24 05:32:43.852] [OPCLOG] [info]   User token policy 0: UserName
+[2018-08-24 05:32:43.852] [OPCLOG] [info] The server has no matching endpoint.
+[2018-08-24 05:32:43.852] [OPCLOG] [info] Result of connect: BadNoMatch
+[2018-08-24 05:34:10.260] [OPCLOG] [info] Result of disconnect: Bad
+[2018-11-01 03:44:21.855] [OPCLOG] [info] OPC On
+[2018-11-01 03:44:21.855] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2018-11-01 03:44:21.856] [OPCLOG] [info] Main Node Name: TOP Server
+[2018-11-01 03:44:21.943] [OPCLOG] [info] Server returned 4 endpoint descriptions:
+[2018-11-01 03:44:21.943] [OPCLOG] [info] Endpoint 0
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   Message security:    Sign
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   User token policy 0: UserName
+[2018-11-01 03:44:21.943] [OPCLOG] [info] Endpoint 1
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   User token policy 0: UserName
+[2018-11-01 03:44:21.943] [OPCLOG] [info] Endpoint 2
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   Message security:    Sign
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   User token policy 0: UserName
+[2018-11-01 03:44:21.943] [OPCLOG] [info] Endpoint 3
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-11-01 03:44:21.943] [OPCLOG] [info]   User token policy 0: UserName
+[2018-11-01 03:44:21.943] [OPCLOG] [info] The server has no matching endpoint.
+[2018-11-01 03:44:21.945] [OPCLOG] [info] Result of connect: BadNoMatch
+[2018-11-04 22:13:26.304] [OPCLOG] [info] Result of disconnect: Bad
+[2018-11-04 22:24:58.863] [OPCLOG] [info] OPC On
+[2018-11-04 22:24:58.863] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2018-11-04 22:24:58.863] [OPCLOG] [info] Main Node Name: TOP Server
+[2018-11-04 22:24:58.972] [OPCLOG] [info] Server returned 4 endpoint descriptions:
+[2018-11-04 22:24:58.972] [OPCLOG] [info] Endpoint 0
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   Message security:    Sign
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   User token policy 0: UserName
+[2018-11-04 22:24:58.972] [OPCLOG] [info] Endpoint 1
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic128Rsa15
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   User token policy 0: UserName
+[2018-11-04 22:24:58.972] [OPCLOG] [info] Endpoint 2
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   Message security:    Sign
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   User token policy 0: UserName
+[2018-11-04 22:24:58.972] [OPCLOG] [info] Endpoint 3
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   URL:                 opc.tcp://127.0.0.1:49380
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   Message security:    SignAndEncrypt
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   Security policy:     http://opcfoundation.org/UA/SecurityPolicy#Basic256
+[2018-11-04 22:24:58.972] [OPCLOG] [info]   User token policy 0: UserName
+[2018-11-04 22:24:58.972] [OPCLOG] [info] The server has no matching endpoint.
+[2018-11-04 22:24:58.972] [OPCLOG] [info] Result of connect: BadNoMatch
+[2018-11-05 06:01:55.142] [OPCLOG] [info] Result of disconnect: Bad
+[2019-08-04 07:20:53.980] [OPCLOG] [info] OPC On
+[2019-08-04 07:20:53.980] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-08-04 07:20:53.980] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-08-04 07:20:54.993] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-08-04 19:43:34.726] [OPCLOG] [info] Result of disconnect: Bad
+[2019-08-13 14:25:34.956] [OPCLOG] [info] OPC On
+[2019-08-13 14:25:34.958] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-08-13 14:25:34.958] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-08-13 14:25:35.973] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-08-13 14:56:11.310] [OPCLOG] [info] Result of disconnect: Bad
+[2019-08-21 10:32:49.257] [OPCLOG] [info] OPC On
+[2019-08-21 10:32:49.259] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-08-21 10:32:49.259] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-08-21 10:32:50.271] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-08-21 11:33:37.350] [OPCLOG] [info] Result of disconnect: Bad
+[2019-08-21 11:34:13.072] [OPCLOG] [info] OPC On
+[2019-08-21 11:34:13.072] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-08-21 11:34:13.072] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-08-21 11:34:14.085] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-08-21 13:23:07.414] [OPCLOG] [info] Result of disconnect: Bad
+[2019-08-21 13:43:29.447] [OPCLOG] [info] OPC On
+[2019-08-21 13:43:29.448] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-08-21 13:43:29.448] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-08-21 13:43:30.460] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-08-21 14:44:51.767] [OPCLOG] [info] Result of disconnect: Bad
+[2019-08-21 17:58:58.122] [OPCLOG] [info] OPC On
+[2019-08-21 17:58:58.123] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-08-21 17:58:58.123] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-08-21 17:58:59.134] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-08-21 22:13:41.800] [OPCLOG] [info] Result of disconnect: Bad
+[2019-08-22 09:56:20.293] [OPCLOG] [info] OPC On
+[2019-08-22 09:56:20.294] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-08-22 09:56:20.294] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-08-22 09:56:21.335] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-08-22 15:51:05.711] [OPCLOG] [info] Result of disconnect: Bad
+[2019-08-27 08:12:02.466] [OPCLOG] [info] OPC On
+[2019-08-27 08:12:02.467] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-08-27 08:12:02.467] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-08-27 08:12:03.482] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-08-27 09:59:19.412] [OPCLOG] [info] Result of disconnect: Bad
+[2019-08-28 11:00:08.968] [OPCLOG] [info] OPC On
+[2019-08-28 11:00:08.969] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-08-28 11:00:08.969] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-08-28 11:00:10.007] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-08-28 13:48:43.158] [OPCLOG] [info] Result of disconnect: Bad
+[2019-09-05 10:08:32.926] [OPCLOG] [info] OPC On
+[2019-09-05 10:08:32.928] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-09-05 10:08:32.928] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-09-05 10:08:33.940] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-09-06 14:47:07.332] [OPCLOG] [info] Result of disconnect: Bad
+[2019-09-09 08:06:27.379] [OPCLOG] [info] OPC On
+[2019-09-09 08:06:27.382] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-09-09 08:06:27.382] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-09-09 08:06:28.395] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-09-09 11:29:33.442] [OPCLOG] [info] Result of disconnect: Bad
+[2019-09-13 15:56:53.128] [OPCLOG] [info] OPC On
+[2019-09-13 15:56:53.129] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-09-13 15:56:53.129] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-09-13 15:56:54.165] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-09-14 08:10:16.069] [OPCLOG] [info] Result of disconnect: Bad
+[2019-09-26 10:49:37.517] [OPCLOG] [info] OPC On
+[2019-09-26 10:49:37.518] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-09-26 10:49:37.518] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-09-26 10:49:38.532] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-09-26 16:10:58.886] [OPCLOG] [info] Result of disconnect: Bad
+[2019-10-23 07:54:02.077] [OPCLOG] [info] OPC On
+[2019-10-23 07:54:02.077] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-10-23 07:54:02.078] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-10-23 07:54:03.106] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-10-23 13:49:35.810] [OPCLOG] [info] Result of disconnect: Bad
+[2019-11-12 08:57:43.709] [OPCLOG] [info] OPC On
+[2019-11-12 08:57:43.711] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-11-12 08:57:43.711] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-11-12 08:57:44.722] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-11-12 13:31:59.104] [OPCLOG] [info] Result of disconnect: Bad
+[2019-11-26 11:07:42.064] [OPCLOG] [info] OPC On
+[2019-11-26 11:07:42.066] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-11-26 11:07:42.066] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-11-26 11:07:43.083] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-11-26 11:09:23.800] [OPCLOG] [info] Result of disconnect: Bad
+[2019-12-12 15:44:19.712] [OPCLOG] [info] OPC On
+[2019-12-12 15:44:19.714] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2019-12-12 15:44:19.715] [OPCLOG] [info] Main Node Name: TOP Server
+[2019-12-12 15:44:20.728] [OPCLOG] [info] Result of connect: BadDisconnect
+[2019-12-12 15:50:49.893] [OPCLOG] [info] Result of disconnect: Bad
+[2020-02-29 14:50:09.178] [OPCLOG] [info] OPC On
+[2020-02-29 14:50:09.180] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2020-02-29 14:50:09.180] [OPCLOG] [info] Main Node Name: TOP Server
+[2020-02-29 14:50:10.202] [OPCLOG] [info] Result of connect: BadDisconnect
+[2020-02-29 14:50:13.599] [OPCLOG] [info] Result of disconnect: Bad
+[2021-06-11 15:03:06.034] [OPCLOG] [info] OPC On
+[2021-06-11 15:03:06.034] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-06-11 15:03:06.034] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-06-11 15:03:08.056] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-06-11 15:46:34.075] [OPCLOG] [info] Result of disconnect: Bad
+[2021-06-11 17:18:40.398] [OPCLOG] [info] OPC On
+[2021-06-11 17:18:40.399] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-06-11 17:18:40.399] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-06-11 17:18:42.426] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-06-12 01:30:02.091] [OPCLOG] [info] Result of disconnect: Bad
+[2021-06-12 01:51:10.272] [OPCLOG] [info] OPC On
+[2021-06-12 01:51:10.273] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-06-12 01:51:10.273] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-06-12 01:51:12.286] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-06-12 02:01:34.920] [OPCLOG] [info] Result of disconnect: Bad
+[2021-06-14 09:14:29.790] [OPCLOG] [info] OPC On
+[2021-06-14 09:14:29.790] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-06-14 09:14:29.790] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-06-14 09:14:30.799] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-06-14 09:28:46.581] [OPCLOG] [info] Result of disconnect: Bad
+[2021-06-17 15:33:03.244] [OPCLOG] [info] OPC On
+[2021-06-17 15:33:03.244] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-06-17 15:33:03.244] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-06-17 15:33:04.255] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-06-17 15:36:05.834] [OPCLOG] [info] Result of disconnect: Bad
+[2021-06-24 10:31:21.471] [OPCLOG] [info] OPC On
+[2021-06-24 10:31:21.471] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-06-24 10:31:21.471] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-06-24 10:31:22.483] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-06-24 10:46:09.254] [OPCLOG] [info] Result of disconnect: Bad
+[2021-06-24 12:14:49.691] [OPCLOG] [info] OPC On
+[2021-06-24 12:14:49.691] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-06-24 12:14:49.691] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-06-24 12:14:50.700] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-06-24 13:00:22.229] [OPCLOG] [info] Result of disconnect: Bad
+[2021-06-24 13:00:36.245] [OPCLOG] [info] OPC On
+[2021-06-24 13:00:36.245] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-06-24 13:00:36.245] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-06-24 13:00:37.249] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-06-24 13:06:26.704] [OPCLOG] [info] Result of disconnect: Bad
+[2021-06-24 13:06:34.488] [OPCLOG] [info] OPC On
+[2021-06-24 13:06:34.488] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-06-24 13:06:34.488] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-06-24 13:06:35.499] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-06-24 13:07:13.997] [OPCLOG] [info] Result of disconnect: Bad
+[2021-06-24 13:07:23.946] [OPCLOG] [info] OPC On
+[2021-06-24 13:07:23.947] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-06-24 13:07:23.947] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-06-24 13:07:24.948] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-06-24 13:23:16.399] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-02 08:55:58.286] [OPCLOG] [info] OPC On
+[2021-07-02 08:55:58.287] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-02 08:55:58.287] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-02 08:56:00.301] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-02 10:47:32.349] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-05 15:18:47.102] [OPCLOG] [info] OPC On
+[2021-07-05 15:18:47.102] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-05 15:18:47.102] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-05 15:18:49.179] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-06 11:13:32.489] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-06 11:24:28.836] [OPCLOG] [info] OPC On
+[2021-07-06 11:24:28.836] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-06 11:24:28.836] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-06 11:24:30.902] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-06 11:33:17.838] [OPCLOG] [info] OPC On
+[2021-07-06 11:33:17.838] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-06 11:33:17.838] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-06 11:33:19.909] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-06 11:38:19.257] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-06 11:38:51.322] [OPCLOG] [info] OPC On
+[2021-07-06 11:38:51.333] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-06 11:38:51.333] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-06 11:38:53.581] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-06 11:46:20.564] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-06 15:01:46.354] [OPCLOG] [info] OPC On
+[2021-07-06 15:01:46.355] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-06 15:01:46.356] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-06 15:01:48.371] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-06 15:19:47.202] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-07 09:41:21.962] [OPCLOG] [info] OPC On
+[2021-07-07 09:41:21.962] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-07 09:41:21.962] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-07 09:41:24.032] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-07 12:54:56.796] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-11 19:26:26.887] [OPCLOG] [info] OPC On
+[2021-07-11 19:26:26.887] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-11 19:26:26.887] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-11 19:26:27.896] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-11 20:35:31.540] [OPCLOG] [info] OPC On
+[2021-07-11 20:35:31.540] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-11 20:35:31.540] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-11 20:35:32.547] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 00:28:04.535] [OPCLOG] [info] OPC On
+[2021-07-14 00:28:04.894] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 00:28:04.894] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 00:28:06.955] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 01:16:07.040] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-14 01:16:27.175] [OPCLOG] [info] OPC On
+[2021-07-14 01:16:27.175] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 01:16:27.175] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 01:16:29.189] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 05:01:52.652] [OPCLOG] [info] OPC On
+[2021-07-14 05:01:52.652] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 05:01:52.652] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 05:01:54.669] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 05:53:13.155] [OPCLOG] [info] OPC On
+[2021-07-14 05:53:13.155] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 05:53:13.155] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 05:53:15.175] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 06:24:54.336] [OPCLOG] [info] OPC On
+[2021-07-14 06:24:54.336] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 06:24:54.336] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 06:24:56.361] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 06:33:48.909] [OPCLOG] [info] OPC On
+[2021-07-14 06:33:48.909] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 06:33:48.909] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 06:33:50.922] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 07:01:52.997] [OPCLOG] [info] OPC On
+[2021-07-14 07:01:52.997] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 07:01:52.997] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 07:01:55.012] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 08:19:16.720] [OPCLOG] [info] OPC On
+[2021-07-14 08:19:16.720] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 08:19:16.720] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 08:19:18.734] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 13:27:51.101] [OPCLOG] [info] OPC On
+[2021-07-14 13:27:51.102] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 13:27:51.102] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 13:27:53.113] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 17:38:30.986] [OPCLOG] [info] OPC On
+[2021-07-14 17:38:30.986] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 17:38:30.986] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 17:38:33.001] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-14 18:33:57.807] [OPCLOG] [info] OPC On
+[2021-07-14 18:33:57.807] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-14 18:33:57.807] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-14 18:33:59.831] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-15 06:04:17.836] [OPCLOG] [info] OPC On
+[2021-07-15 06:04:17.836] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-15 06:04:17.836] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-15 06:04:19.854] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-15 07:41:02.026] [OPCLOG] [info] OPC On
+[2021-07-15 07:41:02.026] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-15 07:41:02.026] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-15 07:41:04.049] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-15 13:02:31.473] [OPCLOG] [info] OPC On
+[2021-07-15 13:02:31.473] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-15 13:02:31.473] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-15 13:02:33.504] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-15 15:37:59.249] [OPCLOG] [info] OPC On
+[2021-07-15 15:37:59.249] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-15 15:37:59.249] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-15 15:38:01.283] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-15 20:05:59.713] [OPCLOG] [info] OPC On
+[2021-07-15 20:05:59.713] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-15 20:05:59.713] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-15 20:06:01.727] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-16 06:02:57.423] [OPCLOG] [info] OPC On
+[2021-07-16 06:02:57.432] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-16 06:02:57.432] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-16 06:02:59.585] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-16 11:48:05.762] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-16 11:54:12.484] [OPCLOG] [info] OPC On
+[2021-07-16 11:54:12.499] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-16 11:54:12.499] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-16 11:54:14.743] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-16 19:02:41.659] [OPCLOG] [info] OPC On
+[2021-07-16 19:02:41.659] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-16 19:02:41.659] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-16 19:02:43.680] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-17 01:42:20.552] [OPCLOG] [info] OPC On
+[2021-07-17 01:42:20.552] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-17 01:42:20.552] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-17 01:42:22.567] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-17 11:24:25.906] [OPCLOG] [info] OPC On
+[2021-07-17 11:24:25.921] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-17 11:24:25.921] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-17 11:24:28.152] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-17 20:30:24.072] [OPCLOG] [info] OPC On
+[2021-07-17 20:30:24.072] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-17 20:30:24.072] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-17 20:30:26.107] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-18 08:10:27.510] [OPCLOG] [info] OPC On
+[2021-07-18 08:10:27.510] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-18 08:10:27.510] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-18 08:10:29.523] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-18 23:07:30.457] [OPCLOG] [info] OPC On
+[2021-07-18 23:07:30.457] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-18 23:07:30.457] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-18 23:07:32.471] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-19 09:58:25.683] [OPCLOG] [info] OPC On
+[2021-07-19 09:58:25.683] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-19 09:58:25.683] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-19 09:58:27.707] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-19 12:04:45.175] [OPCLOG] [info] OPC On
+[2021-07-19 12:04:45.175] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-19 12:04:45.175] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-19 12:04:47.196] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-19 15:45:11.692] [OPCLOG] [info] OPC On
+[2021-07-19 15:45:11.692] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-19 15:45:11.692] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-19 15:45:13.706] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-19 22:21:30.070] [OPCLOG] [info] OPC On
+[2021-07-19 22:21:30.070] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-19 22:21:30.070] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-19 22:21:32.086] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-20 06:04:44.596] [OPCLOG] [info] OPC On
+[2021-07-20 06:04:44.596] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-20 06:04:44.596] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-20 06:04:46.611] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-20 19:04:11.486] [OPCLOG] [info] OPC On
+[2021-07-20 19:04:11.486] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-20 19:04:11.486] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-20 19:04:13.533] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-21 06:35:04.197] [OPCLOG] [info] OPC On
+[2021-07-21 06:35:04.197] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-21 06:35:04.197] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-21 06:35:06.274] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-21 08:12:39.139] [OPCLOG] [info] OPC On
+[2021-07-21 08:12:39.404] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-21 08:12:39.404] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-21 08:12:41.451] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-21 15:52:10.413] [OPCLOG] [info] OPC On
+[2021-07-21 15:52:10.413] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-21 15:52:10.413] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-21 15:52:12.489] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-21 17:43:00.634] [OPCLOG] [info] OPC On
+[2021-07-21 17:43:00.634] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-21 17:43:00.634] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-21 17:43:02.647] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-21 18:49:34.646] [OPCLOG] [info] OPC On
+[2021-07-21 18:49:34.646] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-21 18:49:34.646] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-21 18:49:36.665] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-22 05:59:12.943] [OPCLOG] [info] OPC On
+[2021-07-22 05:59:12.944] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-22 05:59:12.944] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-22 05:59:14.959] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-22 06:17:36.597] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-22 06:17:46.500] [OPCLOG] [info] OPC On
+[2021-07-22 06:17:46.500] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-22 06:17:46.500] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-22 06:17:48.516] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-22 16:18:25.992] [OPCLOG] [info] OPC On
+[2021-07-22 16:18:25.992] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-22 16:18:25.992] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-22 16:18:28.009] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-22 19:46:05.917] [OPCLOG] [info] OPC On
+[2021-07-22 19:46:05.917] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-22 19:46:05.917] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-22 19:46:07.936] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-23 22:15:11.986] [OPCLOG] [info] OPC On
+[2021-07-23 22:15:11.986] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-23 22:15:11.986] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-23 22:15:14.005] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-24 11:23:12.034] [OPCLOG] [info] OPC On
+[2021-07-24 11:23:12.034] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-24 11:23:12.034] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-24 11:23:14.050] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-25 09:12:59.091] [OPCLOG] [info] OPC On
+[2021-07-25 09:12:59.091] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-25 09:12:59.091] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-25 09:13:01.107] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-25 12:55:40.920] [OPCLOG] [info] OPC On
+[2021-07-25 12:55:40.920] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-25 12:55:40.920] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-25 12:55:42.935] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-25 23:58:18.272] [OPCLOG] [info] OPC On
+[2021-07-25 23:58:18.272] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-25 23:58:18.272] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-25 23:58:20.288] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-26 14:26:37.459] [OPCLOG] [info] OPC On
+[2021-07-26 14:26:37.459] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-26 14:26:37.459] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-26 14:26:39.484] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-27 07:32:05.693] [OPCLOG] [info] OPC On
+[2021-07-27 07:32:05.694] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-27 07:32:05.694] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-27 07:32:07.712] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-27 22:15:36.022] [OPCLOG] [info] OPC On
+[2021-07-27 22:15:36.022] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-27 22:15:36.022] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-27 22:15:38.045] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-27 23:04:34.211] [OPCLOG] [info] OPC On
+[2021-07-27 23:04:34.211] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-27 23:04:34.211] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-27 23:04:36.233] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-28 13:42:01.095] [OPCLOG] [info] OPC On
+[2021-07-28 13:42:01.095] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-28 13:42:01.095] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-28 13:42:03.113] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-29 02:42:09.341] [OPCLOG] [info] OPC On
+[2021-07-29 02:42:09.341] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-29 02:42:09.341] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-29 02:42:11.361] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-29 07:54:05.361] [OPCLOG] [info] OPC On
+[2021-07-29 07:54:05.361] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-29 07:54:05.361] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-29 07:54:07.374] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-29 15:38:56.978] [OPCLOG] [info] OPC On
+[2021-07-29 15:38:56.978] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-29 15:38:56.978] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-29 15:38:59.009] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-29 22:37:22.324] [OPCLOG] [info] OPC On
+[2021-07-29 22:37:22.324] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-29 22:37:22.324] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-29 22:37:24.338] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-30 07:27:12.713] [OPCLOG] [info] OPC On
+[2021-07-30 07:27:12.713] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-30 07:27:12.713] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-30 07:27:14.729] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-30 14:33:17.965] [OPCLOG] [info] Result of disconnect: Bad
+[2021-07-30 15:07:17.703] [OPCLOG] [info] OPC On
+[2021-07-30 15:07:17.703] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-30 15:07:17.703] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-30 15:07:19.984] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-30 22:16:16.563] [OPCLOG] [info] OPC On
+[2021-07-30 22:16:16.563] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-30 22:16:16.563] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-30 22:16:18.610] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-31 02:43:29.279] [OPCLOG] [info] OPC On
+[2021-07-31 02:43:29.279] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-31 02:43:29.279] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-31 02:43:31.305] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-31 07:58:05.815] [OPCLOG] [info] OPC On
+[2021-07-31 07:58:05.816] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-31 07:58:05.816] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-31 07:58:07.830] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-31 11:07:54.536] [OPCLOG] [info] OPC On
+[2021-07-31 11:07:54.536] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-31 11:07:54.536] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-31 11:07:56.571] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-31 16:06:14.942] [OPCLOG] [info] OPC On
+[2021-07-31 16:06:14.942] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-31 16:06:14.942] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-31 16:06:17.010] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-31 20:50:00.418] [OPCLOG] [info] OPC On
+[2021-07-31 20:50:00.418] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-31 20:50:00.491] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-31 20:50:02.505] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-31 21:11:29.763] [OPCLOG] [info] OPC On
+[2021-07-31 21:11:29.763] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-31 21:11:29.763] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-31 21:11:31.823] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-31 21:26:09.346] [OPCLOG] [info] OPC On
+[2021-07-31 21:26:09.346] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-31 21:26:09.346] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-31 21:26:11.361] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-07-31 22:36:50.726] [OPCLOG] [info] OPC On
+[2021-07-31 22:36:50.726] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-07-31 22:36:50.726] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-07-31 22:36:52.784] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-01 06:11:28.351] [OPCLOG] [info] OPC On
+[2021-08-01 06:11:28.351] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-01 06:11:28.351] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-01 06:11:30.379] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-01 15:13:00.790] [OPCLOG] [info] OPC On
+[2021-08-01 15:13:00.790] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-01 15:13:00.790] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-01 15:13:02.810] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-02 06:25:16.166] [OPCLOG] [info] OPC On
+[2021-08-02 06:25:16.166] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-02 06:25:16.166] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-02 06:25:18.201] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-02 09:28:08.752] [OPCLOG] [info] OPC On
+[2021-08-02 09:28:08.752] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-02 09:28:08.752] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-02 09:28:10.765] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-02 10:02:01.683] [OPCLOG] [info] OPC On
+[2021-08-02 10:02:01.684] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-02 10:02:01.684] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-02 10:02:03.698] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-02 20:30:16.540] [OPCLOG] [info] OPC On
+[2021-08-02 20:30:16.540] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-02 20:30:16.540] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-02 20:30:18.554] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-03 06:05:33.814] [OPCLOG] [info] OPC On
+[2021-08-03 06:05:33.814] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-03 06:05:33.814] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-03 06:05:35.836] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-03 19:02:45.966] [OPCLOG] [info] OPC On
+[2021-08-03 19:02:45.966] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-03 19:02:45.966] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-03 19:02:48.004] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-04 01:50:54.438] [OPCLOG] [info] OPC On
+[2021-08-04 01:50:54.439] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-04 01:50:54.439] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-04 01:50:56.452] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-04 15:08:14.658] [OPCLOG] [info] OPC On
+[2021-08-04 15:08:14.658] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-04 15:08:14.658] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-04 15:08:16.672] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-05 01:22:01.381] [OPCLOG] [info] OPC On
+[2021-08-05 01:22:01.381] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-05 01:22:01.381] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-05 01:22:03.397] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-05 14:33:41.042] [OPCLOG] [info] OPC On
+[2021-08-05 14:33:41.073] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-05 14:33:41.073] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-05 14:33:43.109] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-06 06:04:06.060] [OPCLOG] [info] OPC On
+[2021-08-06 06:04:06.060] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-06 06:04:06.060] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-06 06:04:08.073] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-06 11:10:25.514] [OPCLOG] [info] OPC On
+[2021-08-06 11:10:25.514] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-06 11:10:25.514] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-06 11:10:27.578] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-06 16:54:47.675] [OPCLOG] [info] OPC On
+[2021-08-06 16:54:47.675] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-06 16:54:47.675] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-06 16:54:49.689] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-06 19:06:22.384] [OPCLOG] [info] OPC On
+[2021-08-06 19:06:22.384] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-06 19:06:22.384] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-06 19:06:24.398] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-06 23:35:32.006] [OPCLOG] [info] OPC On
+[2021-08-06 23:35:32.006] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-06 23:35:32.006] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-06 23:35:34.034] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-07 13:38:56.936] [OPCLOG] [info] OPC On
+[2021-08-07 13:38:56.936] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-07 13:38:56.936] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-07 13:38:58.970] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-07 23:31:56.785] [OPCLOG] [info] OPC On
+[2021-08-07 23:31:56.785] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-07 23:31:56.785] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-07 23:31:58.800] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-08 05:09:23.097] [OPCLOG] [info] OPC On
+[2021-08-08 05:09:23.097] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-08 05:09:23.097] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-08 05:09:25.117] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-08 13:03:56.796] [OPCLOG] [info] OPC On
+[2021-08-08 13:03:56.796] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-08 13:03:56.796] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-08 13:03:58.843] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-09 18:59:21.377] [OPCLOG] [info] OPC On
+[2021-08-09 18:59:21.377] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-09 18:59:21.377] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-09 18:59:23.399] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-10 08:32:47.150] [OPCLOG] [info] OPC On
+[2021-08-10 08:32:47.150] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-10 08:32:47.150] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-10 08:32:49.179] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-10 13:39:45.693] [OPCLOG] [info] OPC On
+[2021-08-10 13:39:45.693] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-10 13:39:45.693] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-10 13:39:47.711] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-10 18:00:07.582] [OPCLOG] [info] OPC On
+[2021-08-10 18:00:07.582] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-10 18:00:07.582] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-10 18:00:09.596] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-11 06:06:34.117] [OPCLOG] [info] OPC On
+[2021-08-11 06:06:34.117] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-11 06:06:34.117] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-11 06:06:36.141] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-11 19:18:48.419] [OPCLOG] [info] OPC On
+[2021-08-11 19:18:48.420] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-11 19:18:48.420] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-11 19:18:50.437] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-12 05:41:09.467] [OPCLOG] [info] OPC On
+[2021-08-12 05:41:09.467] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-12 05:41:09.467] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-12 05:41:11.485] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-12 06:50:29.423] [OPCLOG] [info] OPC On
+[2021-08-12 06:50:29.423] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-12 06:50:29.423] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-12 06:50:31.448] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-12 14:13:03.177] [OPCLOG] [info] OPC On
+[2021-08-12 14:13:03.177] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-12 14:13:03.177] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-12 14:13:05.226] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-12 19:36:58.981] [OPCLOG] [info] OPC On
+[2021-08-12 19:36:58.982] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-12 19:36:58.982] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-12 19:37:00.998] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-12 21:40:13.140] [OPCLOG] [info] OPC On
+[2021-08-12 21:40:13.140] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-12 21:40:13.140] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-12 21:40:15.370] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-13 10:39:28.544] [OPCLOG] [info] OPC On
+[2021-08-13 10:39:28.544] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-13 10:39:28.544] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-13 10:39:30.623] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-13 12:39:52.182] [OPCLOG] [info] OPC On
+[2021-08-13 12:39:52.192] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-13 12:39:52.192] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-13 12:39:54.433] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-13 14:42:45.418] [OPCLOG] [info] OPC On
+[2021-08-13 14:42:45.418] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-13 14:42:45.418] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-13 14:42:47.431] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-14 03:58:10.186] [OPCLOG] [info] OPC On
+[2021-08-14 03:58:10.186] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-14 03:58:10.186] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-14 03:58:12.203] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-14 10:55:11.270] [OPCLOG] [info] OPC On
+[2021-08-14 10:55:11.270] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-14 10:55:11.270] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-14 10:55:13.316] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-14 11:43:32.611] [OPCLOG] [info] OPC On
+[2021-08-14 11:43:32.611] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-14 11:43:32.611] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-14 11:43:34.681] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-14 17:09:33.442] [OPCLOG] [info] OPC On
+[2021-08-14 17:09:33.442] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-14 17:09:33.442] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-14 17:09:35.466] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-15 02:43:47.612] [OPCLOG] [info] OPC On
+[2021-08-15 02:43:47.612] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-15 02:43:47.612] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-15 02:43:49.630] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-15 06:17:27.600] [OPCLOG] [info] OPC On
+[2021-08-15 06:17:27.600] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-15 06:17:27.600] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-15 06:17:29.634] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-15 09:30:00.804] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-15 09:35:54.995] [OPCLOG] [info] OPC On
+[2021-08-15 09:35:54.996] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-15 09:35:54.996] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-15 09:35:57.011] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-15 09:36:01.533] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-15 09:37:07.475] [OPCLOG] [info] OPC On
+[2021-08-15 09:37:07.476] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-15 09:37:07.476] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-15 09:37:09.492] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-15 09:37:30.035] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-15 09:37:42.911] [OPCLOG] [info] OPC On
+[2021-08-15 09:37:42.911] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-15 09:37:42.911] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-15 09:37:44.933] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-15 09:42:30.762] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-15 09:43:59.249] [OPCLOG] [info] OPC On
+[2021-08-15 09:43:59.249] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-15 09:43:59.249] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-15 09:44:01.268] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-15 09:44:46.250] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-15 09:44:57.470] [OPCLOG] [info] OPC On
+[2021-08-15 09:44:57.470] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-15 09:44:57.470] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-15 09:44:59.515] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-15 09:47:11.020] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-15 09:47:38.333] [OPCLOG] [info] OPC On
+[2021-08-15 09:47:38.333] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-15 09:47:38.333] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-15 09:47:40.361] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-15 12:19:13.783] [OPCLOG] [info] OPC On
+[2021-08-15 12:19:13.783] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-15 12:19:13.783] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-15 12:19:15.806] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-15 19:22:20.404] [OPCLOG] [info] OPC On
+[2021-08-15 19:22:20.404] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-15 19:22:20.404] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-15 19:22:22.438] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-16 00:56:50.711] [OPCLOG] [info] OPC On
+[2021-08-16 00:56:50.711] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-16 00:56:50.711] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-16 00:56:52.745] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-16 04:38:05.082] [OPCLOG] [info] OPC On
+[2021-08-16 04:38:05.082] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-16 04:38:05.082] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-16 04:38:07.102] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-16 07:07:53.818] [OPCLOG] [info] OPC On
+[2021-08-16 07:07:53.818] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-16 07:07:53.818] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-16 07:07:55.852] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-16 08:27:31.400] [OPCLOG] [info] OPC On
+[2021-08-16 08:27:31.400] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-16 08:27:31.400] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-16 08:27:33.434] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-16 12:21:07.249] [OPCLOG] [info] OPC On
+[2021-08-16 12:21:07.249] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-16 12:21:07.249] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-16 12:21:09.289] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-16 20:28:14.653] [OPCLOG] [info] OPC On
+[2021-08-16 20:28:14.653] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-16 20:28:14.653] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-16 20:28:16.700] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-16 23:00:49.165] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-16 23:01:08.415] [OPCLOG] [info] OPC On
+[2021-08-16 23:01:08.415] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-16 23:01:08.415] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-16 23:01:10.450] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-16 23:39:53.012] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-16 23:40:05.621] [OPCLOG] [info] OPC On
+[2021-08-16 23:40:05.621] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-16 23:40:05.621] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-16 23:40:07.674] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-17 02:05:45.752] [OPCLOG] [info] OPC On
+[2021-08-17 02:05:45.752] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-17 02:05:45.752] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-17 02:05:47.775] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-17 14:39:30.114] [OPCLOG] [info] OPC On
+[2021-08-17 14:39:30.114] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-17 14:39:30.114] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-17 14:39:32.158] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-17 17:32:37.847] [OPCLOG] [info] OPC On
+[2021-08-17 17:32:37.847] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-17 17:32:37.847] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-17 17:32:39.879] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-18 01:45:49.504] [OPCLOG] [info] OPC On
+[2021-08-18 01:45:49.504] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-18 01:45:49.504] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-18 01:45:51.538] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-18 12:44:29.652] [OPCLOG] [info] OPC On
+[2021-08-18 12:44:29.652] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-18 12:44:29.652] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-18 12:44:31.702] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-18 16:04:24.451] [OPCLOG] [info] OPC On
+[2021-08-18 16:04:24.451] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-18 16:04:24.451] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-18 16:04:26.494] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-18 22:39:24.415] [OPCLOG] [info] OPC On
+[2021-08-18 22:39:24.415] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-18 22:39:24.415] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-18 22:39:26.477] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-18 23:19:05.512] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-18 23:19:41.089] [OPCLOG] [info] OPC On
+[2021-08-18 23:19:41.089] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-18 23:19:41.089] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-18 23:19:43.106] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-18 23:20:26.870] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-18 23:20:37.511] [OPCLOG] [info] OPC On
+[2021-08-18 23:20:37.511] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-18 23:20:37.511] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-18 23:20:39.527] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-18 23:23:54.357] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-18 23:24:17.359] [OPCLOG] [info] OPC On
+[2021-08-18 23:24:17.359] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-18 23:24:17.359] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-18 23:24:19.399] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-18 23:24:47.717] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-18 23:25:36.686] [OPCLOG] [info] OPC On
+[2021-08-18 23:25:36.686] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-18 23:25:36.686] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-18 23:25:38.717] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-18 23:36:53.017] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-18 23:37:06.427] [OPCLOG] [info] OPC On
+[2021-08-18 23:37:06.427] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-18 23:37:06.427] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-18 23:37:08.445] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-19 06:34:11.528] [OPCLOG] [info] OPC On
+[2021-08-19 06:34:11.528] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-19 06:34:11.528] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-19 06:34:13.547] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-19 06:34:24.945] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-19 06:34:39.718] [OPCLOG] [info] OPC On
+[2021-08-19 06:34:39.718] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-19 06:34:39.718] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-19 06:34:41.737] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-19 06:34:51.049] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-19 06:35:04.365] [OPCLOG] [info] OPC On
+[2021-08-19 06:35:04.365] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-19 06:35:04.365] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-19 06:35:06.384] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-19 06:35:50.945] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-19 07:22:11.545] [OPCLOG] [info] OPC On
+[2021-08-19 07:22:11.545] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-19 07:22:11.545] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-19 07:22:13.562] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-19 07:29:08.631] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-19 07:29:21.129] [OPCLOG] [info] OPC On
+[2021-08-19 07:29:21.129] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-19 07:29:21.129] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-19 07:29:23.160] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-19 11:12:49.291] [OPCLOG] [info] OPC On
+[2021-08-19 11:12:49.292] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-19 11:12:49.292] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-19 11:12:51.318] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-19 13:09:56.572] [OPCLOG] [info] OPC On
+[2021-08-19 13:09:56.572] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-19 13:09:56.572] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-19 13:09:58.591] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-19 15:13:54.648] [OPCLOG] [info] OPC On
+[2021-08-19 15:13:54.664] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-19 15:13:54.664] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-19 15:13:56.836] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-19 15:16:39.487] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-19 15:18:09.008] [OPCLOG] [info] OPC On
+[2021-08-19 15:18:09.008] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-19 15:18:09.008] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-19 15:18:11.024] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-19 18:20:12.422] [OPCLOG] [info] OPC On
+[2021-08-19 18:20:12.430] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-19 18:20:12.430] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-19 18:20:14.597] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-20 00:46:02.675] [OPCLOG] [info] Result of disconnect: Bad
+[2021-08-20 00:46:42.183] [OPCLOG] [info] OPC On
+[2021-08-20 00:46:42.183] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-20 00:46:42.183] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-20 00:46:44.264] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-25 12:40:43.639] [OPCLOG] [info] OPC On
+[2021-08-25 12:40:43.648] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-25 12:40:43.648] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-25 12:40:45.890] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-30 00:26:09.207] [OPCLOG] [info] OPC On
+[2021-08-30 00:26:09.214] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-30 00:26:09.214] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-30 00:26:11.399] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-30 15:23:02.115] [OPCLOG] [info] OPC On
+[2021-08-30 15:23:02.115] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-30 15:23:02.115] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-30 15:23:04.148] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-08-30 15:31:43.995] [OPCLOG] [info] OPC On
+[2021-08-30 15:31:43.995] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-08-30 15:31:43.995] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-08-30 15:31:46.014] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-09-06 18:37:22.339] [OPCLOG] [info] Result of disconnect: Bad
+[2021-09-06 18:45:20.454] [OPCLOG] [info] OPC On
+[2021-09-06 18:45:20.461] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-09-06 18:45:20.461] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-09-06 18:45:22.671] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-09-13 22:51:59.801] [OPCLOG] [info] OPC On
+[2021-09-13 22:51:59.811] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-09-13 22:51:59.811] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-09-13 22:52:02.010] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-09-24 02:48:48.853] [OPCLOG] [info] OPC On
+[2021-09-24 02:48:48.858] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-09-24 02:48:48.858] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-09-24 02:48:51.088] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-10-06 13:48:57.570] [OPCLOG] [info] Result of disconnect: Bad
+[2021-10-06 15:43:59.247] [OPCLOG] [info] OPC On
+[2021-10-06 15:43:59.259] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-10-06 15:43:59.259] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-10-06 15:44:01.791] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-10-14 01:52:58.608] [OPCLOG] [info] Result of disconnect: Bad
+[2021-10-14 01:53:51.129] [OPCLOG] [info] OPC On
+[2021-10-14 01:53:51.129] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-10-14 01:53:51.129] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-10-14 01:53:53.379] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-10-15 01:31:04.494] [OPCLOG] [info] OPC On
+[2021-10-15 01:31:04.494] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-10-15 01:31:04.494] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-10-15 01:31:06.566] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-10-26 12:03:55.174] [OPCLOG] [info] Result of disconnect: Bad
+[2021-10-26 12:04:23.307] [OPCLOG] [info] OPC On
+[2021-10-26 12:04:23.307] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-10-26 12:04:23.307] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-10-26 12:04:25.489] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-10-26 22:06:46.669] [OPCLOG] [info] Result of disconnect: Bad
+[2021-10-26 22:10:28.110] [OPCLOG] [info] OPC On
+[2021-10-26 22:10:28.145] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-10-26 22:10:28.145] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-10-26 22:10:30.360] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-10-27 12:13:36.590] [OPCLOG] [info] OPC On
+[2021-10-27 12:13:36.605] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-10-27 12:13:36.605] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-10-27 12:13:38.786] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-10-28 21:28:58.755] [OPCLOG] [info] Result of disconnect: Bad
+[2021-10-28 21:29:39.088] [OPCLOG] [info] OPC On
+[2021-10-28 21:29:39.088] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-10-28 21:29:39.089] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-10-28 21:29:41.126] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-01 06:04:43.347] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-01 06:05:00.773] [OPCLOG] [info] OPC On
+[2021-11-01 06:05:00.773] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-01 06:05:00.773] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-01 06:05:02.794] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-02 07:32:57.737] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-02 07:44:20.786] [OPCLOG] [info] OPC On
+[2021-11-02 07:44:20.786] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-02 07:44:20.786] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-02 07:44:23.010] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-05 04:46:09.749] [OPCLOG] [info] OPC On
+[2021-11-05 04:46:09.749] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-05 04:46:09.749] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-05 04:46:11.820] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-10 16:57:04.037] [OPCLOG] [info] OPC On
+[2021-11-10 16:57:04.086] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-10 16:57:04.086] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-10 16:57:06.338] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-11 19:50:08.612] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-11 19:50:26.601] [OPCLOG] [info] OPC On
+[2021-11-11 19:50:26.602] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-11 19:50:26.602] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-11 19:50:28.794] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-12 00:59:06.145] [OPCLOG] [info] OPC On
+[2021-11-12 00:59:06.160] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-12 00:59:06.160] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-12 00:59:08.393] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-12 14:28:37.584] [OPCLOG] [info] OPC On
+[2021-11-12 14:28:37.585] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-12 14:28:37.585] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-12 14:28:39.605] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-12 15:30:45.886] [OPCLOG] [info] OPC On
+[2021-11-12 15:30:45.886] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-12 15:30:45.886] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-12 15:30:47.906] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-12 15:32:22.375] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-12 15:32:57.111] [OPCLOG] [info] OPC On
+[2021-11-12 15:32:57.111] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-12 15:32:57.111] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-12 15:32:59.128] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-12 17:25:26.200] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-12 17:29:05.604] [OPCLOG] [info] OPC On
+[2021-11-12 17:29:05.619] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-12 17:29:05.619] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-12 17:29:07.817] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-12 17:50:10.374] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-12 18:19:24.765] [OPCLOG] [info] OPC On
+[2021-11-12 18:19:24.781] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-12 18:19:24.781] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-12 18:19:26.978] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-12 18:31:34.411] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-12 18:42:33.438] [OPCLOG] [info] OPC On
+[2021-11-12 18:42:33.453] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-12 18:42:33.453] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-12 18:42:35.651] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-12 18:42:55.491] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-12 18:43:05.818] [OPCLOG] [info] OPC On
+[2021-11-12 18:43:05.818] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-12 18:43:05.818] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-12 18:43:07.841] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-12 23:59:09.229] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-13 00:00:59.732] [OPCLOG] [info] OPC On
+[2021-11-13 00:00:59.732] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-13 00:00:59.732] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-13 00:01:02.194] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-13 00:01:07.836] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-13 00:15:17.172] [OPCLOG] [info] OPC On
+[2021-11-13 00:15:17.172] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-13 00:15:17.172] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-13 00:15:19.194] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-13 00:26:58.893] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-13 02:27:10.371] [OPCLOG] [info] OPC On
+[2021-11-13 02:27:10.388] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-13 02:27:10.388] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-13 02:27:12.620] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-13 08:33:41.421] [OPCLOG] [info] OPC On
+[2021-11-13 08:33:41.431] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-13 08:33:41.431] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-13 08:33:43.678] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-13 08:34:37.374] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-13 08:34:49.770] [OPCLOG] [info] OPC On
+[2021-11-13 08:34:49.770] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-13 08:34:49.770] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-13 08:34:51.791] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-13 08:43:36.780] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-13 08:46:41.812] [OPCLOG] [info] OPC On
+[2021-11-13 08:46:41.828] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-13 08:46:41.828] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-13 08:46:43.998] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-14 08:14:37.865] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-14 08:15:09.185] [OPCLOG] [info] OPC On
+[2021-11-14 08:15:09.185] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-14 08:15:09.185] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-14 08:15:11.204] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-14 12:31:29.926] [OPCLOG] [info] OPC On
+[2021-11-14 12:31:29.942] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-14 12:31:29.942] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-14 12:31:32.225] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-14 17:41:18.850] [OPCLOG] [info] OPC On
+[2021-11-14 17:41:18.866] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-14 17:41:18.866] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-14 17:41:21.152] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-16 09:37:42.694] [OPCLOG] [info] OPC On
+[2021-11-16 09:37:42.711] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-16 09:37:42.711] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-16 09:37:44.948] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-16 14:12:39.165] [OPCLOG] [info] OPC On
+[2021-11-16 14:12:39.182] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-16 14:12:39.182] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-16 14:12:41.422] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-17 14:23:32.070] [OPCLOG] [info] OPC On
+[2021-11-17 14:23:32.071] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-17 14:23:32.071] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-17 14:23:34.103] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-17 14:24:56.062] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-17 14:31:05.424] [OPCLOG] [info] OPC On
+[2021-11-17 14:31:05.425] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-17 14:31:05.425] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-17 14:31:07.470] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-17 14:31:11.299] [OPCLOG] [info] Result of disconnect: Bad
+[2021-11-17 14:31:23.201] [OPCLOG] [info] OPC On
+[2021-11-17 14:31:23.201] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2021-11-17 14:31:23.201] [OPCLOG] [info] Main Node Name: TOP Server
+[2021-11-17 14:31:25.259] [OPCLOG] [info] Result of connect: BadDisconnect
+[2021-11-17 14:31:27.583] [OPCLOG] [info] Result of disconnect: Bad
+[2024-04-23 13:57:05.856] [OPCLOG] [info] OPC On
+[2024-04-23 13:57:05.856] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-04-23 13:57:05.856] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-04-23 13:57:07.888] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-04-23 13:57:19.544] [OPCLOG] [info] Result of disconnect: Bad
+[2024-04-23 20:29:19.381] [OPCLOG] [info] OPC On
+[2024-04-23 20:29:19.381] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-04-23 20:29:19.381] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-04-23 20:29:21.443] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-04-23 20:30:13.334] [OPCLOG] [info] Result of disconnect: Bad
+[2024-05-02 13:56:47.218] [OPCLOG] [info] OPC On
+[2024-05-02 13:56:47.218] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-05-02 13:56:47.218] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-05-02 13:56:49.250] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-05-02 13:56:51.172] [OPCLOG] [info] Result of disconnect: Bad
+[2024-05-02 14:26:01.492] [OPCLOG] [info] OPC On
+[2024-05-02 14:26:01.492] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-05-02 14:26:01.492] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-05-02 14:26:03.546] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-05-03 17:39:03.663] [OPCLOG] [info] OPC On
+[2024-05-03 17:39:03.663] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-05-03 17:39:03.663] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-05-03 17:39:05.742] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-05-03 17:39:26.585] [OPCLOG] [info] Result of disconnect: Bad
+[2024-05-03 17:46:57.342] [OPCLOG] [info] OPC On
+[2024-05-03 17:46:57.343] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-05-03 17:46:57.343] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-05-03 17:46:59.379] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-05-03 18:08:38.198] [OPCLOG] [info] OPC On
+[2024-05-03 18:08:38.199] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-05-03 18:08:38.199] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-05-03 18:08:40.258] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-05-03 18:12:56.736] [OPCLOG] [info] OPC On
+[2024-05-03 18:12:56.736] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-05-03 18:12:56.736] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-05-03 18:12:58.757] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-05-03 18:15:24.511] [OPCLOG] [info] OPC On
+[2024-05-03 18:15:24.511] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-05-03 18:15:24.511] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-05-03 18:15:26.540] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-09-03 16:24:58.746] [OPCLOG] [info] OPC On
+[2024-09-03 16:24:58.746] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-09-03 16:24:58.746] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-09-03 16:25:00.826] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-09-03 16:25:57.462] [OPCLOG] [info] Result of disconnect: Bad
+[2024-09-03 16:32:49.023] [OPCLOG] [info] OPC On
+[2024-09-03 16:32:49.024] [OPCLOG] [info] Server URL: opc.tcp://127.0.0.1:49380
+[2024-09-03 16:32:49.024] [OPCLOG] [info] Main Node Name: TOP Server
+[2024-09-03 16:32:51.086] [OPCLOG] [info] Result of connect: BadDisconnect
+[2024-09-03 16:33:06.605] [OPCLOG] [info] Result of disconnect: Bad

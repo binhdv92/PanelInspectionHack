@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gsc>
+
+<version>
+	<major>0</major>
+	<minor>0</minor>	
+	<bugfix>0</bugfix>
+</version>
+
+<description>
+Standard IO mapping
+</description>
+
+
+<!-- Describes mapping of logical (what io is doing) io  physical (which output pin is set) number-->
+<!-- Therefore physical and logical number cannot exist twice -->
+<!-- Example <id>"SYSTEMREADY""</id>  <ioname>"System ready"</ioname>  <iotype>1</iotype> <phyno>4</phyno>  -->
+<!-- iotype 0 = input -->	
+<!--INPUTS -->	
+<INPUTS>
+	<INSPSTART>  	
+		<name>Insp Start</name>   
+		<modulno>1</modulno> 
+		<phyno>0</phyno> 
+	</INSPSTART>
+	<!--
+	<ROBOTLOCATED>  	
+		<name>Robot located</name>   
+		<modulno>1</modulno> 
+		<phyno>1</phyno> 
+	</ROBOTLOCATED>
+	<APERTURE_IN>  	
+		<name>Aperture in</name>   
+		<modulno>1</modulno> 
+		<phyno>2</phyno> 
+	</APERTURE_IN>
+	-->
+	<SLOT1_DEV0_ANAIN0> 		
+		<name>camera 1 light sense 1</name>  
+		<modulno>1</modulno> 
+		<phyno>0</phyno>
+		<type>1</type>
+	</SLOT1_DEV0_ANAIN0>
+		
+	<SLOT2_DEV0_ANAIN0> 		
+		<name>camera 2 light sense 1</name>  
+		<modulno>1</modulno> 
+		<phyno>1</phyno>
+		<type>1</type>
+	</SLOT2_DEV0_ANAIN0>
+ 		<!--iotype 0 = input -->
+</INPUTS>
+
+<!--OUTPUTS -->
+<OUTPUTS>
+	<SYSTEMREADY> 	
+		<name>System Ready</name>  
+		<modulno>1</modulno> 
+		<phyno>0</phyno> 
+	</SYSTEMREADY> 		
+
+	<SYSTEMBUSY>  	
+		<name>System Busy</name>  
+		<modulno>1</modulno> 
+		<phyno>2</phyno> 
+	</SYSTEMBUSY> 		
+
+	<APERTURE_OUT>  	
+		<name>Aperture out</name>   
+		<modulno>1</modulno> 
+		<phyno>1</phyno> 
+	</APERTURE_OUT>
+
+	<TOGGLE>  	
+		<name>Toggle</name>  
+		<modulno>1</modulno> 
+		<phyno>3</phyno> 
+	</TOGGLE>
+
+	<SLOT1_DEV0_ANAOUT0> 		
+		<name>camera 1 light power 1</name>  
+		<modulno>1</modulno> 
+		<phyno>0</phyno>
+		<type>1</type>
+	</SLOT1_DEV0_ANAOUT0>
+		
+	<SLOT2_DEV0_ANAOUT0> 		
+		<name>camera 2 light power 1</name>  
+		<modulno>1</modulno> 
+		<phyno>1</phyno>
+		<type>1</type>
+	</SLOT2_DEV0_ANAOUT0>
+		
+</OUTPUTS>
+</gsc>
+

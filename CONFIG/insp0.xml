@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+
+<version>
+	<major>0</major>
+	<minor>0</minor>
+	<bugfix>0</bugfix>
+</version>
+
+<linetriggermode>0</linetriggermode>		<!-- 0 = intern 1 = extern  2 = grabber controlled -->
+<frametriggermode>0</frametriggermode>	    <!-- 0 = intern 1 = extern  -->
+<exposuretime>100</exposuretime> 			<!-- Exposuretime in microseconds -->
+<linespersec>2000</linespersec> 			<!-- Lines per second - note only available for line cameras -->
+<framespersec>4</framespersec> 		    	<!-- Frames per second - not availabel in camera freerun mode-->
+<gain>1</gain > 		    				<!-- Global gain -->
+
+</gsc>
+

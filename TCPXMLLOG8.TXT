@@ -1,0 +1,6 @@
+STR9     0 09:17:25,230 Write Event 0
+STR9     1 09:17:35,108 Send XML event heartbeat
+STR9     2 09:17:35,108 Send complete
+STR9     3 09:17:35,118 Write Event 0
+STR9     4 09:17:35,118 Exit Thread
+STR9     5 09:17:35,119 Exit done

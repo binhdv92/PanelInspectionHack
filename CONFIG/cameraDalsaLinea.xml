@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+<version>
+	<major>0</major>
+	<minor>0</minor>
+	<bugfix>0</bugfix>
+</version>
+<name>DALSA LINEA 8K</name>	<!-- Camera 0 name -->
+<model>2</model> 			<!-- 0 = unknown 1 = DALSA SPYDER 2 = DALSA LINEA GE 3 = DALSA LINEA CL -->
+<type>2</type> 				<!-- 0 = line    1 = area -->
+<color>0</color>			<!-- 0 = monochrome 1 = colour -->
+<pixel>8182</pixel>			<!-- number of pixel  in x direction-->
+<lines>1</lines>			<!-- number of lines  in y direction -->
+<gainmin>1.0</gainmin>			<!-- limit for gain -->
+<gainmax>10.0</gainmax>			<!-- limit for gain -->
+</gsc>
+

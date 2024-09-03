@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<version >
+	<major>0</major>
+	<minor>0</minor>	
+	<bugfix>0</bugfix>
+</version>
+
+
+<files>
+<file alias="LOGS">./CONFIG/SettingsLogs.xml</file> 
+<file alias="GRABBER0">./CONFIG/SettingsGrabber0.xml</file>
+<file alias="GRABBER1">./CONFIG/SettingsGrabber1.xml</file>
+<file alias="GRABBER2">./CONFIG/SettingsGrabber2.xml</file>
+<file alias="GRABBER3">./CONFIG/SettingsGrabber3.xml</file>
+<file alias="CAM0">./CONFIG/cameraClscMono.xml</file>
+<file alias="CAM1">./CONFIG/cameraClscMono.xml</file>
+<file alias="CAM2">./CONFIG/cameraClscMono.xml</file>
+<file alias="CAM3">./CONFIG/cameraClscMono.xml</file>
+<file alias="IOMODUL0">./CONFIG/SettingsInpOutSiso.xml</file>
+<file alias="IOMODUL1">./CONFIG/SettingsInpOutAdvantech1810.xml</file>
+<file alias="IOMAP">./CONFIG/InpOutMapping.xml</file>
+<file alias="HARD">./CONFIG/Hardware.xml</file> 
+<file alias="INSP0">./CONFIG/insp0.xml</file>
+<file alias="EVALPAR">./CONFIG/eval0.xml</file>
+<file alias="SIM0">./CONFIG/SettingsGrabberSimulator0.xml</file>
+<file alias="SIM1">./CONFIG/SettingsGrabberSimulator1.xml</file>
+<file alias="SIM2">./CONFIG/SettingsGrabberSimulator0.xml</file>
+<file alias="SIM3">./CONFIG/SettingsGrabberSimulator1.xml</file>
+</files>

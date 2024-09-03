@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropTree version="1.0">
+<V name="Version" type="3:INT">1</V>
+<V name="MaxCamTypes" type="3:INT">8</V>
+<V name="MaxTraceStations" type="3:INT">9</V>
+<V name="MaxTraceUnits" type="3:INT">64</V>
+<V name="MaxSupp_Defects" type="3:INT">32</V>
+<V name="SizeOfDefect" type="3:INT">304</V>
+<F name="CamType">
+<F name="00_CamType">
+<F name="Defect">
+</F>
+<V name="FixedToleranz" type="4:FLT">0</V>
+<V name="DynToleranz" type="4:FLT">0</V>
+</F>
+<F name="01_CamType">
+<F name="Defect">
+</F>
+<V name="FixedToleranz" type="4:FLT">0</V>
+<V name="DynToleranz" type="4:FLT">0</V>
+</F>
+<F name="02_CamType">
+<F name="Defect">
+</F>
+<V name="FixedToleranz" type="4:FLT">0</V>
+<V name="DynToleranz" type="4:FLT">0</V>
+</F>
+<F name="03_CamType">
+<F name="Defect">
+</F>
+<V name="FixedToleranz" type="4:FLT">0</V>
+<V name="DynToleranz" type="4:FLT">0</V>
+</F>
+<F name="04_CamType">
+<F name="Defect">
+</F>
+<V name="FixedToleranz" type="4:FLT">0</V>
+<V name="DynToleranz" type="4:FLT">0</V>
+</F>
+<F name="05_CamType">
+<F name="Defect">
+</F>
+<V name="FixedToleranz" type="4:FLT">0</V>
+<V name="DynToleranz" type="4:FLT">0</V>
+</F>
+<F name="06_CamType">
+<F name="Defect">
+</F>
+<V name="FixedToleranz" type="4:FLT">0</V>
+<V name="DynToleranz" type="4:FLT">0</V>
+</F>
+<F name="07_CamType">
+<F name="Defect">
+</F>
+<V name="FixedToleranz" type="4:FLT">0</V>
+<V name="DynToleranz" type="4:FLT">0</V>
+</F>
+</F>
+</PropTree>

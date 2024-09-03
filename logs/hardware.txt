@@ -1,0 +1,4 @@
+[2024-04-23 13:46:55.572] [HWLOG] [info] Start hardware manager version 00.01.00 
+[2024-04-23 13:46:55.572] [HWLOG] [info] Create hardware instances
+[2024-04-23 13:46:55.573] [HWLOG] [error] Hardware manager Cannot create grabber Cannot open grabber board: Failed to load siso_hal library
+[2024-04-23 13:46:55.573] [HWLOG] [error] Hardware manager Cannot create hardware Cannot open grabber board: Failed to load siso_hal library

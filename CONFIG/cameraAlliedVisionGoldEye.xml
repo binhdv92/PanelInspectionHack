@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gsc>
+<version>
+	<major>0</major>
+	<minor>0</minor>
+	<bugfix>0</bugfix>
+</version>
+
+<name>ALLIED VISION GOLD EYE CL008</name>			<!-- Camera 0 name -->
+ <!-- 0 = UNKNOWN 			-->
+ <!-- 1 = DALSA SPYDER 		-->
+ <!-- 2 = DALSA_LINEA_GE	-->
+ <!-- 3 = VISTEK_SV4021		-->
+ <!-- 4 = VISTEK_SV4022		-->
+ <!-- 5 = ALLIED GOLD EYE	-->
+<model>5</model> 					<!-- 4 = Vistek SV4021 -->
+<type>1</type> 						<!-- 0 = line 1 = area -->
+<color>0</color>					<!-- 0 = monochrome 1 = RGB -->
+<pixel>320</pixel>					<!-- number of pixel  in x direction-->
+<lines>256</lines>					<!-- number of pixel  in y direction -->
+<bits>14</bits> 					<!-- bits per pixel -->
+<interfacetype>0</interfacetype>   	<!-- 0 = GeniCam 1 = Ascii -->
+<sensormode>0</sensormode>			<!-- NOTE is not neccesary for by GigE E0 = Read sensor from 0 - N  3 = Read sensor from N - 0 6 = TAB2_2 |1>     <2|-->
+</gsc>
+
+

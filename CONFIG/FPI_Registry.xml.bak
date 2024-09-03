@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Registry version="1.0">
+<F name="Path">
+<V name="App" type="8:STR"><![CDATA[C:\binhdv92\PanelInspectionHack\]]></V>
+<V name="Config" type="8:STR"><![CDATA[C:\binhdv92\PanelInspectionHack\Config\]]></V>
+</F>
+<F name="Settings">
+<V name="LastSaveFormat" type="3:INT">2</V>
+<V name="min_insp_speed_um_per_sec" type="3:INT">0</V>
+<V name="DlgDefectFileListShow" type="3:INT">1</V>
+<V name="StoreDefects_Filepath" type="8:STR"><![CDATA[C:\Laufendes\TERA-BGD\(D)_DefektTraining\Trainingslisten_BGD_CadCL_ARC_Cover\Cover]]></V>
+</F>
+<F name="Motor_Dialog_Settings">
+<V name="Sample_Offset" type="3:INT">1</V>
+<V name="Default_Pos_X" type="3:INT">40000</V>
+<V name="Default_Pos_Y" type="3:INT">40000</V>
+<V name="Default_Pos_Z" type="3:INT">4900</V>
+</F>
+<F name="DBSettings">
+<V name="ODBC" type="8:STR"><![CDATA[FPI]]></V>
+<V name="User" type="8:STR"><![CDATA[sa]]></V>
+<V name="PWD" type="8:STR"><![CDATA[Schw4b01]]></V>
+<V name="Enable" type="3:INT">1</V>
+</F>
+<F name="HotKeyConfig">
+<F name="00">
+<V name="MenuPath" type="8:STR"><![CDATA[\Extras\Switch Extern Start]]></V>
+<V name="HotKeyVirtKeyCode" type="18:INT">119</V>
+<V name="HotKeyModifiers" type="18:INT">0</V>
+</F>
+</F>
+<F name="OPCSettings">
+<V name="Enabled" type="3:INT">1</V>
+</F>
+<F name="CreateDB">
+<V name="ServerIP" type="8:STR"><![CDATA[(local)\SQLExpress]]></V>
+<V name="User" type="8:STR"><![CDATA[sa]]></V>
+<V name="DB_Name" type="8:STR"><![CDATA[FPI]]></V>
+<V name="DB_Type" type="3:INT">2</V>
+</F>
+</Registry>
